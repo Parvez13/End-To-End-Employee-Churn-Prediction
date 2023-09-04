@@ -1,0 +1,22 @@
+pymongo
+scikit-learn
+pandas
+numpy
+dill
+PyYAML
+streamlit
+python-dotenv
+mlflow
+imblearn
+pickle-mixin
+bentoml
+dagshub
+deepchecks
+hydra-core
+hyperopt 
+dvc
+pydantic
+requests
+patsy
+pytest_steps
+-e .
