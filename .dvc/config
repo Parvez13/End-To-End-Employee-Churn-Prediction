@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/prvzsohail/End-to-End-Employee-Job-Satisfaction-Project.dvc
