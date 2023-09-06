@@ -1,7 +1,7 @@
-# End-To-End-Employee-Churn-Prediction
+## Problem Statement:
+The objective of this analysis is to develop a predictive model that can accurately identify employees who are at risk of leaving the organization ("Leave or Not") based on various features in the dataset. This predictive model will aid HR departments and management in proactively addressing employee attrition, thereby helping to retain valuable talent.
 
-### DAGSHUB repository : https://dagshub.com/prvzsohail/End-to-End-Employee-Job-Satisfaction-Project
-### APP LINK: https://employee-churn.streamlit.app/
+
 ## Motivation
 In a data science team, it is common to continuously try to find a better model than the existing one in production. It is important to make sure the service doesn't break when the new model is deployed. 
 
@@ -28,3 +28,6 @@ The first workflow named [test_model.yaml](https://github.com/khuyentran1401/emp
 The second workflow named [deploy_app.yaml](https://github.com/khuyentran1401/employee-future-prediction/blob/master/.github/workflows/deploy_app.yaml) automatically deploy the new model to the existing service after the pull request is merged.
 
 ![](https://cdn-images-1.medium.com/max/800/1*gb37ASDRRILsKJYe3CBFyw.png).
+
+## DAGSHUB repository : https://dagshub.com/prvzsohail/End-to-End-Employee-Job-Satisfaction-Project
+## APP LINK: https://employee-churn.streamlit.app/
