@@ -29,5 +29,5 @@ The second workflow named [deploy_app.yaml](https://github.com/khuyentran1401/em
 
 ![](https://cdn-images-1.medium.com/max/800/1*gb37ASDRRILsKJYe3CBFyw.png).
 
-## DAGSHUB repository : https://dagshub.com/prvzsohail/End-to-End-Employee-Job-Satisfaction-Project
+## DAGSHUB repository : (https://dagshub.com/prvzsohail/employee_churn)
 ## APP LINK: https://employee-churn.streamlit.app/
