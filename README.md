@@ -31,3 +31,9 @@ The second workflow named [deploy_app.yaml](https://github.com/khuyentran1401/em
 
 ## DAGSHUB repository : (https://dagshub.com/prvzsohail/employee_churn)
 ## APP LINK: https://employee-churn.streamlit.app/
+
+
+
+https://github.com/Parvez13/End-To-End-Employee-Churn-Prediction/assets/66157611/9f341b72-d089-4fea-9215-74ad1afb7b65
+
+
